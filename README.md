@@ -1,5 +1,5 @@
 # OOTDiffusion-windows-GUI
-Windows不用搭建环境，解压即用！
+Windows不用搭建环境（包括CUDA、ninja编译、VS C++编译等都不用），只要英伟达显卡就行，解压即用！
 
 软件基于开源的项目
 https://github.com/levihsu/OOTDiffusion
